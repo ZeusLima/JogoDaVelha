@@ -279,6 +279,3 @@ while True:
             print(f'{tabuleiro[i][j]:<}     ', end='')
         print()
     print()
-
-# MUDANÇA DE TESTE PARA O GITBASH/HUB
-print('MUDANÇA DE TESTE PARA O GITBASH/HUB')
