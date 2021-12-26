@@ -42,6 +42,7 @@ usados = [0, 0, 0,
 
 x = '\033[31mX\033[m'
 o = '\033[36mO\033[m'
+
 print('='*44)
 print(f'{"JOGO DA VELHA":-^44}')
 print(f'{"TIC TAC TOE":-^44}')
